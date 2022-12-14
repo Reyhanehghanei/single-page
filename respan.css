@@ -1,0 +1,1132 @@
+
+@media only screen and (max-width: 1292px){
+    .offer-product-info h3{
+        font: bold 26px/1.8 samim;
+        margin-bottom: 43px;
+        margin-right: -129px;
+        margin-top: -33px;
+    }
+    .price-flex a {
+        font: normal 18px/1 samim;
+        color: #b80028;
+        display: inline-block;
+        padding: 15px;
+        border-radius: 15px;
+        border: 2px solid #b80028;
+        margin-right: 201px;
+        margin-top: 129px;
+        text-decoration: none;
+        width: 75px;
+        text-align: center;
+    }
+}
+
+
+@media only screen and (max-width: 1276px) {
+
+    #p{
+        font-size: 24px;
+    }
+}
+
+@media only screen and (max-width: 1268px) {
+    #p{
+        font-size: 24px;
+    }
+
+
+}
+@media only screen and (max-width: 1265px){
+
+
+    .anar{
+        left: 75px;
+    }
+    #p{
+        font-size: 22px;
+    }
+    h1{
+        margin-right: 85px;
+    }
+}
+
+@media only screen and (max-width: 1239px){
+
+}
+
+
+
+@media only screen and (max-width: 1206px){
+
+    h1{
+
+    }
+    #p{
+        font-size: 20px;
+    }
+    .anar {
+        left: 45px;
+    }
+
+
+}
+@media only screen and (max-width:1176) {
+
+    h3 {
+        color: aqua;
+    }
+
+
+}
+
+
+@media only screen and (max-width: 1121px){
+    #p{
+        font-size: 19px;
+        margin-left: 320px;
+
+    }
+
+
+}
+
+@media only screen and (max-width: 1100px) {
+    .circle1{
+        display: none;
+    }
+}
+
+
+@media only screen and (max-width: 1088px) {
+
+    .box-bot {
+        width: 30%;
+        height: 64px;
+        border: 2px solid black;
+        margin-right: 38px;
+        text-align: center;
+        font-size: 26px;
+        border-radius: 38px;
+        /* position: absolute; */
+        /* left: 135px; */
+        margin-top: 78px;
+        /* margin-right: -18px; */
+    }
+
+
+}
+@media only screen and (max-width: 1111px) {
+    .circle1{
+        display: none;
+    }
+}
+@media only screen and (max-width: 1110px) {
+    .circle1{
+        display: none;
+    }
+}
+@media only screen and (max-width: 1109px) {
+    .circle1{
+        display: none;
+    }
+}
+@media only screen and (max-width: 1103px) {
+    .circle1{
+        display: none;
+    }
+}
+
+@media only screen and (max-width:1096px) and (min-width: 840px) {
+
+
+    .price-flex a {
+        margin-right: 113px;
+        width: 72px;
+        margin-left: 22px;
+    }
+
+
+    @media only screen and (max-width: 1057px) {
+
+    }
+    .price-flex a {
+        margin-right:145px ;
+    }
+
+
+}
+@media only screen and (max-width: 1099px) {
+
+
+    .price-flex a {
+        margin-right:145px ;
+    }
+}
+@media only screen and (max-width: 1092.80px) {
+    .couponbox h2 {
+        margin-right: -18px;
+        font-size: 22px;
+    }
+
+}
+
+
+@media only screen and (max-width: 1090px) {
+    .circle1{
+        display: none;
+    }
+
+}
+@media only screen and (max-width: 1057px) {
+
+    .price-flex a {
+        margin-right:145px ;
+    }
+}
+@media only screen and (max-width:1096px) and (min-width: 1041px) {
+
+
+}
+.say2 h3 {
+    font-size: 35px;
+    margin-bottom: 43px;
+    margin-right: 14px;
+    margin-top: 45px;
+    text-align: center;
+}
+.say2 ul {
+    margin-top: 51px;
+    margin-right: 50px;
+    list-style-type: none;
+    color: #757575;
+    font-weight: bolder;
+    font-size: 26px;
+}
+
+@media only screen and (max-width:1040px) and (min-width: 954px) {
+
+    .offer-product-img img {
+        width: 100%;
+        background:transparent;
+    }
+    .pad {
+        width: 90%;
+        /* border: 1px solid saddlebrown; */
+        margin-right: 50px;
+    }
+    .say2 h3 {
+        font-size: 32px;
+        margin-bottom: 43px;
+        margin-right: 14px;
+        margin-top: 45px;
+        text-align: center;
+    }
+    .pad {
+        width: 90%;
+        /* border: 1px solid saddlebrown; */
+        /* margin-right: 50px; */
+    }
+    .say2 ul {
+        /* margin-top: 51px; */
+        margin-right: 50px;
+        list-style-type: none;
+        color: #757575;
+        font-weight: bolder;
+        font-size: 21px;
+    }
+    .say2 {
+        width: 45%;
+        height: 500px;
+        /* border: 1px solid darkred; */
+    }
+
+}
+
+@media only screen and (max-width: 995px) {
+    .box1{
+        width: 35%;
+    }
+    .container2 {
+        width: 93%;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: -96px;
+    }
+
+    .title{
+        width: 100%;
+    }
+
+    .container3 {
+        width: 93%;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: -50px;
+    }
+
+    .img3 img {
+        width: 80%;
+        height: 196px;
+    }
+    .matn3 h2 {
+        text-decoration: none;
+        font-size: 20px;
+        color: #0f1a1b;
+    }
+    .img3 img {
+        max-width: 50%;
+        margin-right: -37px;
+    }
+    .box {
+        width: calc(38.33% - 3px);
+        float: right;
+        padding: 15px;
+        position: relative;
+        background: #fff;
+        /* border-radius: 25px; */
+        margin: 0 15px 30px;
+        text-align: center;
+        box-shadow: 0px 0px 15px 0px rgb(0 0 0 / 5%);
+        height: 380px;
+    }
+    .title h2 {
+        margin-top: 80px;
+        margin-right: 93px;
+        position: relative;
+        top: -106px;
+        font-size: 20px;
+    }
+}
+
+
+
+
+
+
+@media only screen and (max-width: 980px){
+
+
+    .anar {
+
+        left: 268px;
+        top: 379px;
+    }
+
+    h1{
+        margin-top: 45px;
+        margin-right: 185px;
+    }
+
+    #p {
+        font-size: 19px;
+        margin-left: 36px;
+    }
+    .circle1{
+        display: none;
+    }
+    .start-btn{
+        margin-left: 230px;
+    }
+    .offer-product-img img {
+        background: transparent;
+    }
+
+}
+
+@media only screen and (max-width: 978px) {
+
+    h1 {
+        margin-right: 200px;
+    }
+
+    #p {
+        margin-left: 0;
+    }
+
+    .start-btn {
+        margin-right: 445px;
+    }
+}
+@media only screen and (max-width: 949px) {
+    #h2 {
+        margin-top: 293px;
+        margin-right: 75px;
+        font: bold 24px/1 samim;
+        color: #252525;
+    }
+
+
+}
+@media only screen and (max-width: 921px) {
+
+    .container2 {
+        width: 93%;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: -120px;
+    }
+
+}
+@media only screen and (max-width: 920px) {
+
+
+    .advantages li {
+        width: 89%;
+        /* border: 1px solid saddlebrown; */
+        height: 183px;
+    }
+}
+
+@media only screen and (max-width: 910.67px) {
+    .box-bot {
+        width: 30%;
+        height: 64px;
+        border: 2px solid black;
+        margin-right: 38px;
+        text-align: center;
+        font-size: 26px;
+        border-radius: 38px;
+        /* position: absolute; */
+        /* left: 135px; */
+        margin-top: 124px;
+        /* margin-right: -18px; */
+    }
+
+}
+
+@media only screen and (max-width: 819px) {
+
+    .container2 {
+        width: 93%;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: -120px;
+    }
+}
+
+
+
+
+
+@media only screen and (max-width:953px) and (min-width: 817px) {
+
+
+    .offer-product-img img {
+        width: 100%;
+        background: transparent;
+    }
+    .say2 h3 {
+        font-size: 28px;
+        margin-bottom: 43px;
+        margin-right: 14px;
+        margin-top: -40px;
+        text-align: center;
+    }
+    .say2 ul {
+        margin-top: 51px;
+        margin-right: 50px;
+        list-style-type: none;
+        color: #757575;
+        font-weight: bolder;
+        font-size: 19px;
+    }
+
+}
+@media only screen and (max-width:816px) and (min-width: 513px) {
+    .pad {
+        width: 88%;
+        margin: 0 auto;
+    }
+    .anar-off {
+        background-image: url(anar-off.png);
+        background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
+        width: 85px;
+        height: 100px;
+        /* border: 1px solid darkblue; */
+        left: 45px;
+    }
+
+    .con {
+        width: 100%;
+        /* border: 1px solid khaki; */
+        display: flex;
+        flex-direction: column;
+        /* margin-top: 151px; */
+        margin: -3px;
+        position: relative;
+        top: 140px;
+    }
+    .offer-product-img img {
+
+        max-width: 100%;:
+
+    }
+    .a3 {
+        color: #b80028;
+        padding: 12px;
+        border-radius: 15px;
+        border: 2px solid #b80028;
+        margin-right: 1053px;
+        margin-top: -72px;
+        text-decoration: none;
+        width: 74px;
+        text-align: center;
+        height: 22px;
+        font-size: 18px;
+        position: absolute;
+        left: 26px;
+        /* top: -29px; */
+        margin-top: 74px;
+    }
+    .say2 h3 {
+        font-size: 20px;
+        margin-bottom: 43px;
+        margin-right: 14px;
+        margin-top: -40px;
+        text-align: center;
+    }
+    .say1{
+        width: 100%;
+        margin: 0 auto;
+
+    }
+    .say2{
+        width: 100%;
+
+    }
+    .pad span {
+        display: inline-block;
+        color: #fff;
+        font: bold 16px/34px samim;
+        padding: 0 15px;
+        border-radius: 100px;
+        margin-right: 5px;
+        background: #ed3340;
+        position: absolute;
+        top: -70px;
+        right: 243px;
+        width: 104px;
+        font-size: 18px;
+    }
+}
+
+@media only screen and (max-width:907px) {
+
+    .offer-product-img {
+        width: 80%;
+        background-image: url(blob-shape.svg);
+        height: 520px;
+        background-repeat: no-repeat;
+        background-size: 650px;
+        background-position: center;
+        position: relative;
+        top: -65px;
+        background: transparent;
+    }
+    .offer-product-info h3 {
+        font-size: 25px;
+        margin-bottom: 54px;
+    }
+
+
+    .offer-product-img img {
+        max-width: 100%;
+        position: absolute;
+        left: -31px;
+    }
+
+    h1 {
+        margin-right: 140px;
+    }
+
+    .start-btn {
+
+        margin-right: 380px;
+    }
+}
+
+@media only screen and (max-width: 816px) {
+    .a3 {
+        color: #b80028;
+        padding: 12px;
+        border-radius: 15px;
+        border: 2px solid #b80028;
+        margin-right: 1053px;
+        margin-top: -72px;
+        text-decoration: none;
+        width: 100px;
+        text-align: center;
+        height: 22px;
+        font-size: 18px;
+        position: absolute;
+        left: 26px;
+        /* top: -29px; */
+        margin-top: 74px;
+    }
+
+
+}
+
+@media only screen and (max-width: 810px) {
+
+    .a3 {
+        color: #b80028;
+        padding: 12px;
+        border-radius: 15px;
+        border: 2px solid #b80028;
+        margin-right: 1053px;
+        margin-top: -72px;
+        text-decoration: none;
+        width: 112px;
+        text-align: center;
+        height: 22px;
+        font-size: 18px;
+        position: absolute;
+        left: 26px;
+        /* top: -29px; */
+        margin-top: 74px;
+    }
+
+}
+
+
+
+@media only screen and (max-width: 808px) {
+    .container2 {
+        width: 93%;
+        /* flex-wrap: wrap; */
+        /* justify-content: center; */
+        margin-top: -129px;
+        flex-direction: column;
+        align-items: center;
+    }
+    .container3{
+        width: 93%;
+        /* flex-wrap: wrap; */
+        /* justify-content: center; */
+        flex-direction: column;
+        align-items: center;
+    }
+    .box {
+        width: calc(71.33% - 3px);
+        float: right;
+        padding: 15px;
+        position: relative;
+        background: #fff;
+        /* border-radius: 25px; */
+        margin: 0 15px 30px;
+        text-align: center;
+        box-shadow: 0px 0px 15px 0px rgb(0 0 0 / 5%);
+        height: 395px;
+    }
+    .img3 img {
+        max-width: 100%;
+        margin-right: 0;
+    }
+    @media only screen and (max-width:804px) {
+        .a3 {
+            color: #b80028;
+            padding: 12px;
+            border-radius: 15px;
+            border: 2px solid #b80028;
+            margin-right: 1053px;
+            margin-top: -72px;
+            text-decoration: none;
+            width: 107px;
+            text-align: center;
+            height: 22px;
+            font-size: 18px;
+            position: absolute;
+            left: 26px;
+            /* top: -29px; */
+            margin-top: 74px;
+        }
+
+    }
+
+
+}
+@media only screen and (max-width:800px) {
+    .offer-product-flex{
+        display: block;
+    }
+    .offer-product-img {
+
+        background:transparent;
+    }
+    .couponbox {
+        background-color: rgb(248, 249, 249);
+        width: 89%;
+        height: 475px;
+        /* border: 1px solid darkblue; */
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        border-radius: 25px;
+        margin-top: 130px;
+    }
+
+    .anar-wow {
+        width: 324px;
+        height: 300px;
+        margin-right: -11px;
+        background-image: url(anar-wow.png);
+        background-position: center;
+        background-size: 85% auto;
+        background-repeat: no-repeat;
+        right: 0;
+        margin-top: -101px;
+    }
+    .box-bot {
+        width: 30%;
+        height: 64px;
+        border: 2px solid black;
+        margin-right: -15px;
+        text-align: center;
+        font-size: 26px;
+        border-radius: 38px;
+        /* position: absolute; */
+        left: 225px;
+        /* margin-right: -18px; */
+        margin-top: 383px;
+    }
+    .couponbox h2 {
+        /* margin-right: -18px; */
+        font-size: 32px;
+        margin-top: 61px;
+        text-align: center;
+    }
+    .box-wrapper p {
+        margin-top: 11px;
+        margin-right: -9px;
+        font-size: 19px;
+    }
+}
+
+
+@media only screen and (max-width:789px) {
+    h1{
+        font-size: 50px;
+    }
+    .anar {
+        left: 230px;
+        top: 379px;
+    }
+    .start-btn {
+        margin-right: 325px;
+    }
+    .offer-product-img {
+
+        background:transparent;
+    }
+}
+
+@media only screen and (max-width:718px)  {
+    .anar {
+        left: 190px;
+        top: 387px;
+    }
+    h1 {
+        margin-right: 115px;
+    }
+
+    .start-btn {
+        margin-right: 298px;
+    }
+    .offer-product-img {
+
+        background:transparent;
+    }
+
+}
+
+
+@media only screen and (max-width: 686.25px) {
+
+    #h2 {
+        margin-top: 261px;
+        margin-right: 75px;
+        font: bold 24px/1 samim;
+        color: #252525;
+    }
+
+}
+
+
+@media only screen and (max-width: 680px) {
+
+
+    .advantages {
+        margin: 0 0 40px 0;
+        padding: 0;
+        list-style: none;
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 90%;
+        /* border: 1px solid darkred; */
+        margin: 0 auto;
+        margin-top: 55px;
+        flex-direction: column;
+        margin-right: 0px;
+        /* margin: 5px; */
+    }
+    .title {
+        width: 100%;
+    }
+
+}
+}
+
+@media only screen and (max-width:669px) {
+    .anar {
+        left: 132px;
+        top: 391px;
+    }
+    h1{
+        margin-right: 92px;
+    }
+    .tap-nav{
+        visibility: hidden;
+    }
+    .offer-product-img {
+
+        background:transparent;
+    }
+    #img {
+        position: absolute;
+        top: 5px;
+        left: 265px;
+    }
+    h1 {
+        margin-right: 92px;
+        margin-top: 7px;
+        font-size: 40px;
+    }
+    .start-btn {
+        /* margin-right: 193px; */
+        position: absolute;
+        right: 51px;
+    }
+
+}
+
+@media only screen and (max-width:625px) {
+
+    .couponbox h2{
+
+        font-size: 27px;
+    }
+    .box-bot {
+        width: 72%;
+        /* top: 0px; */
+        margin-top: 375px;
+        left: 48px;
+    }
+
+
+
+}
+
+@media only screen and (max-width:623px) {
+    .anar {
+        left: 88px;
+        top: 347px;
+        background-size: 68% auto;
+    }
+    #p {
+        margin-left: 0;
+        font-size: 18px;
+    }
+    .start-btn {
+        margin-right: 154px;
+    }
+    h1 {
+        margin-right: 70px;
+    }
+    .offer-product-img {
+
+        background:transparent;
+    }
+
+}
+
+
+@media only screen and (max-width:580px) {
+    h1 {
+        margin-right: 106px;
+        font-size: 40px;
+    }
+    #p {
+        margin-left: 0;
+        font-size: 17px;
+    }
+    .offer-product-img {
+
+        background:transparent;
+    }
+    .say1{
+        width: 100%;
+        margin: 0 auto;
+
+
+    }
+    .say2{
+        width: 100%;
+
+    }
+    .say2 h3 {
+        font-size: 18px;
+        margin-bottom: 43px;
+        /* margin-right: 14px; */
+        margin-top: -129px;
+        text-align: center;
+    }
+    h1 {
+        margin-right: 129px;
+        font-size: 25px;
+        margin-top: 0px;
+    }
+}
+
+
+@media only screen and (max-width:565px){
+    .anar {
+        position: absolute;
+        left: 12px;
+        bottom: 0;
+        width: 400px;
+        height: 400px;
+        background-image: url(anar.png);
+        background-position: center;
+        background-size: 56% auto;
+        background-repeat: no-repeat;
+        margin-right: 10px;
+        top: 342px;
+    }
+    .offer-product-img {
+
+        background:transparent;
+    }
+
+
+}
+@media only screen and (max-width:555.56px){
+    .title h2 {
+        margin-top: 80px;
+        margin-right: 93px;
+        position: relative;
+        top: -102px;
+        font-size: 13px;
+    }
+
+    #h2 {
+        margin-top: 215px;
+        margin-right: 75px;
+        font: bold 24px/1 samim;
+        color: #252525;
+    }
+    .pad span {
+        /* display: inline-block; */
+        width: 93px;
+        color: #fff;
+        /* font: bold 16px/34px samim; */
+        /* padding: 0 15px; */
+        font-size: 18px;
+        text-align: center;
+        border-radius: 100px;
+        margin-right: 14px;
+        background: #ed3340;
+        position: absolute;
+        top: -70px;
+        right: 243px;
+    }
+}
+
+@media only screen and (max-width:546px){
+
+    .tap-nav{
+        visibility: hidden;
+    }
+    #p {
+        margin-left: 0;
+        font-size: 16px;
+    }
+    h1 {
+        margin-right: 62px;
+        font-size: 27px;
+        margin-top: 15px;
+    }
+    .offer-product-img {
+
+        background:transparent;
+    }
+    #h2 {
+        margin-top: 277px;
+        margin-right: 71px;
+        font: bold 24px/1 samim;
+        color: #252525;
+    }
+    .anar-off {
+        background-image: url(anar-off.png);
+        background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
+        width: 70px;
+        height: 100px;
+        /* border: 1px solid darkblue; */
+        left: 45px;
+    }
+    .pad2 {
+        display: flex;
+        flex-direction: row;
+        margin-right: -27px;
+    }
+}
+@media only screen and (max-width:512px) {
+
+    .con {
+        width: 100%;
+        /* border: 1px solid khaki; */
+        display: flex;
+        flex-direction: column;
+        /* margin-top: 151px; */
+        margin: -6px;
+        position: relative;
+        top: 140px;
+    }
+    .pad {
+        width: 88%;
+        /* border: 1px solid saddlebrown; */
+        margin-right: 25px;
+    }
+
+}
+@media only screen and (max-width:500px) {
+
+    .pad {
+        width: 88%;
+        margin: 0 auto;
+    }
+    .couponbox h2 {
+        font-size: 17px;
+    }
+    .con {
+        width: 100%;
+        /* border: 1px solid khaki; */
+        display: flex;
+        flex-direction: column;
+        /* margin-top: 151px; */
+        margin: -6px;
+        position: relative;
+        top: 140px;
+    }
+    .say2 h3 {
+        font-size: 20px;
+        margin-bottom: 43px;
+        margin-right: 14px;
+        margin-top: -40px;
+        text-align: center;
+    }
+    .say2 ul {
+        /* margin-top: 51px; */
+        /* margin-right: 50px; */
+        list-style-type: none;
+        color: #757575;
+        font-weight: bolder;
+        font-size: 18px;
+    }
+    .offer-product-img img {
+        background: transparent;
+        width: 100%;
+        margin-top: 90px;
+    }
+
+
+    .pad {
+        width: 88%;
+        /* border: 1px solid saddlebrown; */
+        margin-right: 25px;
+    }
+    .say2 h3 {
+        font-size: 18px;
+        margin-bottom: 43px;
+        /* margin-right: 14px; */
+        margin-top: 16px;
+        text-align: center;
+
+    }
+    #img {
+        position: absolute;
+        top: 5px;
+        left: 175px;
+    }
+    .pad span {
+        /* display: inline-block; */
+        width: 120px;
+        color: #fff;
+        /* font: bold 16px/34px samim; */
+        /* padding: 0 15px; */
+        font-size: 18px;
+        text-align: center;
+        border-radius: 100px;
+        margin-right: 14px;
+        background: #ed3340;
+        position: absolute;
+        top: -21px;
+        right: 93px;
+    }
+
+    .a3 {
+        color: #b80028;
+        padding: 12px;
+        border-radius: 15px;
+        border: 2px solid #b80028;
+        margin-right: 1045px;
+        text-decoration: none;
+        width: 173px;
+        text-align: center;
+        height: 22px;
+        font-size: 24px;
+        position: absolute;
+        left: 83px;
+        /* top: -29px; */
+        margin-top: 74px;
+    }
+
+    .container2 {
+        width: 93%;
+        /* flex-wrap: wrap; */
+        /* justify-content: center; */
+        margin-top: -142px;
+        flex-direction: column;
+        align-items: center;
+    }
+    .box {
+        width: calc(71.33% - 3px);
+        float: right;
+        padding: 15px;
+        position: relative;
+        background: #fff;
+        /* border-radius: 25px; */
+        margin: 0 15px 30px;
+        text-align: center;
+        box-shadow: 0px 0px 15px 0px rgb(0 0 0 / 5%);
+        height: 395px;
+        margin-top: 30px;
+    }
+    .title {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 40px 0;
+        width: 100%;
+    }
+
+}
+
+

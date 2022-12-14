@@ -1,0 +1,173 @@
+
+.whiteback {
+    /*    position: relative;*/
+    /*    top: 374px;*/
+    /*border: 1px solid darkred;*/
+    background: #fff;
+    width: 100%;
+    min-height: 250px;
+    min-width: 100%;
+    max-width: 1920px;
+    height: 319px;
+    bottom: 0;
+    background-image: url(bg3.png);
+    background-position: center;
+    background-size: 1920px 319px;
+    background-repeat: no-repeat;
+
+}
+.container2 {
+    min-height: 500px;
+    background-color: rgb(248, 249, 249);
+    /* border: 1px solid darkred; */
+    display: flex;
+    flex-direction: row;
+    width: 96%;
+    /* margin-right: 15px; */
+    margin-right: 22px;
+}
+.title h2::after {
+    content: "";
+    display: inline-block;
+    width: 40px;
+    height: 4px;
+    background: #b80028;
+    vertical-align: middle;
+    margin-right: 15px;
+    border-radius: 4px;
+}
+
+.title h2 {
+    margin-top: 80px;
+    margin-right: 93px;
+    position: relative;
+    top: -62px;
+}
+
+/*section top off*/
+section.top-off .title {
+    margin-top: -113px;
+}
+.box{
+    width: calc(30% - 30px);
+    background: #fff;
+    border-radius: 25px;
+    text-align: center;
+    box-shadow: 0px 0px 15px 0px rgb(0 0 0 / 5%);
+    margin: 29px 15px 68px;
+    text-decoration: none;
+
+}
+.ro{
+    background-color: rgb(248, 249, 249);
+    /* border: 1px solid firebrick;*/
+    min-height:500px;
+    margin-top: -18px;
+}
+.img3 {
+    /* border: 1px solid firebrick; */
+    width: 212px;
+    height: 244px;
+    margin: 0 auto;
+    margin-top: 14px;
+    border: 1px solid firebrick;
+
+
+}
+
+
+
+.img3 img{
+    width: 100%;
+}
+.matn3{
+
+height: 10%;
+border:1px solid fuchsia;
+
+}
+
+.matn3 h2{
+    text-decoration: none;
+    font-size: 25px;
+    color: #0f1a1b;
+}
+
+.matn3 h2:hover{
+    color: purple;
+}
+.matn4 del {
+    font-size: 19px;
+    /* margin-top: 25px; */
+    color: gray;
+}
+.matn4{
+    margin-top: 15px;
+}
+
+.matn4 p {
+    margin-top: 25px;
+    font-size: 21px;
+    color: #ba2424;
+/*section top off*/
+.top-off .title {
+    margin-top: -113px;
+
+}
+
+
+
+
+.matn5 {
+
+    width: 50%;
+    height: 100px;
+    /* border: 1px solid darkred;*/
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.khat2 {
+    width: 245px;
+    border: 1px solid gray;
+    height: 0px;
+    /* top: 13px; */
+    margin-top: 52px;
+}
+
+.khat3 {
+    width: 245px;
+    border: 1px solid gray;
+    height: 0px;
+    /* top: 13px; */
+    margin-top: 52px;
+    margin-right: 15px;
+}
+
+.matn5 a {
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bolder;
+    margin-top: 35px;
+    margin-right: 20px;
+}
+
+
+
+<div class="matn5">
+                  <div class="khat2"></div>
+
+                                       <a href="#" title="نمایش بیشتر" target="_blank">نمایش بیشتر</a>
+
+                                                                                                    <div class="khat3"></div>
+
+                                                                                                                         </div>
+
+
+
+
+
+
+
