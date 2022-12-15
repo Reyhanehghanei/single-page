@@ -202,6 +202,23 @@
     font-weight: bolder;
     font-size: 26px;
 }
+@media only screen and (max-width:1047px) {
+
+    .box-bot {
+        width: 30%;
+        height: 64px;
+        border: 2px solid black;
+        margin-right: 38px;
+        text-align: center;
+        font-size: 26px;
+        border-radius: 38px;
+        /* position: absolute; */
+        /* left: 135px; */
+        margin-top: 120px;
+        /* margin-right: -18px; */
+    }
+
+}
 
 @media only screen and (max-width:1040px) and (min-width: 954px) {
 
@@ -681,7 +698,7 @@
         margin-top: -101px;
     }
     .box-bot {
-        width: 30%;
+        width: 50%;
         height: 64px;
         border: 2px solid black;
         margin-right: -15px;
@@ -689,13 +706,13 @@
         font-size: 26px;
         border-radius: 38px;
         /* position: absolute; */
-        left: 225px;
+        left: 201px;
         /* margin-right: -18px; */
         margin-top: 383px;
     }
     .couponbox h2 {
         /* margin-right: -18px; */
-        font-size: 32px;
+        font-size: 28px;
         margin-top: 61px;
         text-align: center;
     }
@@ -814,7 +831,16 @@
     }
 
 }
+@media only screen and (max-width:668px) {
+    .matn5 a {
+        text-decoration: none;
+        font-size: 21px;
+        font-weight: bolder;
+        margin-top: 35px;
+        margin-right: 20px;
+    }
 
+}
 @media only screen and (max-width:625px) {
 
     .couponbox h2{
@@ -825,7 +851,7 @@
         width: 72%;
         /* top: 0px; */
         margin-top: 375px;
-        left: 48px;
+        left: 83px;
     }
 
 
@@ -985,6 +1011,15 @@
         display: flex;
         flex-direction: row;
         margin-right: -27px;
+    }
+}
+
+@media only screen and (max-width:543px) {
+    .box-bot {
+        width: 72%;
+        /* top: 0px; */
+        margin-top: 375px;
+        left: 65px;
     }
 }
 @media only screen and (max-width:512px) {

@@ -1,0 +1,49 @@
+@media only screen and (max-width:1021px) and (min-width: 1013px) {
+    .matn5 a {
+        text-decoration: none;
+        font-size: 21px;
+        font-weight: bolder;
+        margin-top: 35px;
+        margin-right: 20px;
+    }
+}
+
+@media only screen and (max-width:1012px) and (min-width: 1005px) {
+
+    .matn5 a {
+        text-decoration: none;
+        font-size: 20px;
+        font-weight: bolder;
+        margin-top: 35px;
+        margin-right: 20px;
+    }
+
+
+}
+
+@media only screen and (max-width:1004px) and (min-width: 1000px) {
+    .matn5 a {
+        text-decoration: none;
+        font-size: 19px;
+        font-weight: bolder;
+        margin-top: 35px;
+        margin-right: 20px;
+    }
+
+}
+
+@media only screen and (max-width:999px) and (min-width: 987px){
+
+    .matn5 a {
+        text-decoration: none;
+        font-size: 18px;
+        font-weight: bolder;
+        margin-top: 35px;
+        margin-right: 20px;
+    }
+}
+@media only screen and (max-width:986px) and (min-width: 600px) {
+
+
+
+}
