@@ -1,5 +1,46 @@
+@media only screen and (max-width: 1350px) {
 
-@media only screen and (max-width: 1292px){
+    .couponbox h2 {
+        margin-right: 8px;
+        font-size: 29px;
+    }
+
+}
+@media only screen and (max-width: 1294px) {
+
+.couponbox h2 {
+    margin-right: 19px;
+    font-size: 27px;
+}
+    @media only screen and (max-width: 1292px) {
+
+    .couponbox h2 {
+        margin-right: 1px;
+        font-size: 29px;
+    }
+}
+
+    @media only screen and (max-width: 1344px) and (min-width: 1300px)
+{
+    .box-bot {
+        width: 17%;
+        height: 64px;
+        border: 2px solid black;
+        /* margin-right: 63px; */
+        text-align: center;
+        font-size: 26px;
+        border-radius: 38px;
+        position: absolute;
+        left: 48px;
+        margin-right: -122px;
+    }
+
+    .couponbox h2 {
+        margin-right: -18px;
+        font-size: 30px;
+    }
+}
+    @media only screen and (max-width: 1292px){
     .offer-product-info h3{
         font: bold 26px/1.8 samim;
         margin-bottom: 43px;
@@ -20,13 +61,54 @@
         text-align: center;
     }
 }
+    @media only screen and (max-width: 1289px) {
+        .couponbox h2 {
+            margin-right: 23px;
+            font-size: 25px;
+        }
 
+    }
+        @media only screen and (max-width: 1288px) {
+
+        .couponbox h2 {
+            margin-right: 8px;
+            font-size: 27px;
+        }
+
+    }
+@media only screen and (max-width: 1284px) {
+
+
+
+    .couponbox h2 {
+        margin-right: -18px;
+        font-size: 27px;
+    }
+
+}
+@media only screen and (max-width: 1280px) {
+
+    .couponbox h2 {
+        margin-right: -18px;
+        font-size: 28px;
+    }
+}
 
 @media only screen and (max-width: 1276px) {
 
     #p{
         font-size: 24px;
     }
+}
+@media only screen and (max-width: 1273px) and (min-width: 1100px){
+
+
+
+    .couponbox h2 {
+        margin-right: -18px;
+        font-size: 24px;
+    }
+    
 }
 
 @media only screen and (max-width: 1268px) {
@@ -78,7 +160,31 @@
 
 
 }
+@media only screen and (max-width: 1129px) {
+    .couponbox h2 {
+        margin-right: -11px;
+        font-size: 22px;
+    }
 
+
+}
+
+
+@media only screen and (max-width: 1126px) {
+
+    .couponbox h2 {
+        margin-right: -18px;
+        font-size: 23px;
+    }
+}
+
+@media only screen and (max-width: 1125px) {
+
+    .couponbox h2 {
+        margin-right: -18px;
+        font-size: 22px;
+    }
+}
 
 @media only screen and (max-width: 1121px){
     #p{
@@ -96,7 +202,6 @@
     }
 }
 
-
 @media only screen and (max-width: 1088px) {
 
     .box-bot {
@@ -113,8 +218,49 @@
         /* margin-right: -18px; */
     }
 
+}
+
+    @media only screen and (max-width: 1087px) {
+
+        .box-bot {
+            width: 25%;
+            height: 64px;
+            border: 2px solid black;
+            margin-right: 38px;
+            text-align: center;
+            font-size: 26px;
+            border-radius: 38px;
+            /* position: absolute; */
+            /* left: 135px; */
+            margin-top: 100px;
+            /* margin-right: -18px; */
+        }
+    }
+        @media only screen and (max-width: 1086px) {
+    .box-bot {
+        width: 28%;
+        height: 64px;
+        border: 2px solid black;
+        margin-right: 38px;
+        text-align: center;
+        font-size: 26px;
+        border-radius: 38px;
+        /* position: absolute; */
+        /* left: 135px; */
+        margin-top: 109px;
+        /* margin-right: -18px; */
+    }
+}
+
+@media only screen and (max-width: 1117px) {
+
+    .couponbox h2 {
+        margin-right: -18px;
+        font-size: 22px;
+    }
 
 }
+
 @media only screen and (max-width: 1111px) {
     .circle1{
         display: none;
@@ -146,6 +292,13 @@
     }
 
 
+    .couponbox h2 {
+        margin-right: -8px;
+        font-size: 20px;
+    }
+
+
+
     @media only screen and (max-width: 1057px) {
 
     }
@@ -164,8 +317,8 @@
 }
 @media only screen and (max-width: 1092.80px) {
     .couponbox h2 {
-        margin-right: -18px;
-        font-size: 22px;
+        margin-right: -5px;
+        font-size: 19px;
     }
 
 }
